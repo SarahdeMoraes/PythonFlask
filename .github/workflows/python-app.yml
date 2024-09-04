@@ -32,7 +32,7 @@ jobs:
       uses: johnbeynon/render-deploy-action@v0.0.8
       with:
         # ID of the service to deploy
-        service-id: 
+        service-id: srv-cqr0a1qj1k6c73dn2fa0
         # A Render API key
-        api-key: 
+        api-key: rnd_No5277FP7mcnhTFFPUQVx1PWvjP1
           
